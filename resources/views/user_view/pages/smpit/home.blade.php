@@ -15,7 +15,7 @@ SMPIT Nurul 'Ilmi Tenggarong
           <div class="row">
             <div class="col-md-4 position-relative">
               <div class="p-3 text-center">
-                <h1 class="text-gradient text-danger"><span id="state1" countTo="0">0</span>+</h1>
+                <h1 class="text-gradient text-danger"><span id="state1" countTo="0">397</span>+</h1>
                 <h5 class="mt-3">Total Siswa</h5>
                 <p class="text-sm font-weight-normal">Siswa-siswi aktif belajar disekolah kami</p>
               </div>
@@ -49,7 +49,7 @@ SMPIT Nurul 'Ilmi Tenggarong
         <div class="col-lg-6">
           <span class="badge bg-danger mb-3">Visi SMPIT</span>
           <h2 class="text-dark mb-0">Visi Sekolah Kami</h2>
-          <p class="lead">"Terwujudnya sekolah Islam Terpadu yang mencetak generasi unggul, bersih, sehat dan berkarakter berdasarkan IMTAQ dan IPTEK." </p>
+          <p class="lead">"Terwujudnya Pribadi Yang Shaleh Dan Shalehah, Berintelektual Tinggi Serta Peduli Lingkungan." </p>
         </div>
       </div>
     </div>
@@ -83,15 +83,15 @@ SMPIT Nurul 'Ilmi Tenggarong
             <div class="col-md-6">
               <div class="info">
                 <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
-                <h5 class="font-weight-bolder mt-2">Pendidikan Islam Terpadu</h5>
-                <p class="pe-5">Menerapkan sistem pendidikan Islam Terpadu yang mengintegrasikan ayat-ayat qouliyah dan kauniyah, Iman dan ‘Amal, Ruhiyah dan Jasadiyah dalam lingkungan pendidikan yang Islami, Sehat, Bersih, aman dan nyaman.</p>
+                <h5 class="font-weight-bolder mt-2">Pendidikan Islam Terpadu dan Efektif</h5>
+                <p class="pe-5">Menyelenggarakan pendidikan iskami yang memadukan kurikulum nasional dan kurikulum Sekolah islam Terpadu (SIT), Melaksanakan pembelajaran dan bimbingan yang efektif sehingga siswa berkembang secara optimal sesuai potensi yang dimiliki.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info">
                 <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
                 <h5 class="font-weight-bolder mt-2">Pendidikan Karakter, Berwawasan dan Sehat</h5>
-                <p class="pe-3">Membiasakan pola hidup Jujur, Disiplin dan Bertanggung Jawab, Membiasakan siswa untuk bersikap sopan santun (Adab Islami), Membiasakan pola hidup bersih serta Peduli Terhadap Pengendalian Pencemaran dan kerusakan juga Pelestarian lingkungan hidup, sehingga tercipta sekolah berwawasan, dan berbudaya lingkungan yang sehat.</p>
+                <p class="pe-3">Menumbuhkan keteladanan dalam sikap dan perilaku yang baik sesuai ajaran islam, Menumbuhkan kesadaran akan pentingnya menjaga kebersihan lingkungan.</p>
               </div>
             </div>
           </div>
@@ -99,12 +99,12 @@ SMPIT Nurul 'Ilmi Tenggarong
             <div class="col-md-6 mt-2">
               <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
               <h5 class="font-weight-bolder mt-3">Pendidikan Pusat Inovasi dan Inspirasi</h5>
-              <p class="pe-5">Menyelenggarakan pendidikan yang menjadi pusat inovasi dan inspirasi pengembangan mutu pendidikan.</p>
+              <p class="pe-5">Menumbhkan semangat keunggulan dibidang sains dan teknologi, Menumbuhkan kreatifitas siswa dalam memanfaatkan limbah.</p>
             </div>
             <div class="col-md-6 mt-2">
               <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
-              <h5 class="font-weight-bolder mt-3">Pendidikan Tanah Air</h5>
-              <p class="pe-5">Menanamkan rasa cinta tanah air dan bangsa.</p>
+              <h5 class="font-weight-bolder mt-3">Pendidikan Partisipasi</h5>
+              <p class="pe-5">Menerapkan manajemen partisipatif dengan melibatkan seluruh warga sekolah dan kelompok kepentingan yang terkait dengan sekolah.</p>
             </div>
           </div>
         </div>
@@ -151,13 +151,13 @@ SMPIT Nurul 'Ilmi Tenggarong
                             <p class="pe-5">Segudang prestasi sekolah SMPIT Nurul Ilmi Tenggarong.</p>
                           </div>
 
-                          {{-- <div class="col-lg-6 mt-lg-0 mt-2 ps-lg-0 ps-0">
+                          <div class="col-lg-6 mt-lg-0 mt-2 ps-lg-0 ps-0">
                             <div class="p-3 info-horizontal">
                               <div class="icon icon-shape  bg-gradient-success shadow-success text-center">
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class=""><strong>50 Guru Terbaik</strong> <br> Lomba Bahan Ajar Digital Dinas Pendidikan Prov. Kaltim 2021</p>
+                                <p class=""><strong>Sekolah Adiwiyata tingkat Provinsi 2021</strong></p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -165,10 +165,10 @@ SMPIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class=""><strong>Juara 2 Lomba Poster</strong> <br> Univ. Pajajaran Bandung Jawa Barat Tahun 2021</p>
+                                <p class=""><strong>Sekolah Aktif Literasi Nasional 2021 melalui program Gerakan Sekolah Menulis Buku (GSMB)</strong></p>
                               </div>
                             </div>
-                            <div class="p-3 info-horizontal">
+                            {{-- <div class="p-3 info-horizontal">
                               <div class="icon icon-shape  bg-gradient-success shadow-success text-center">
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
@@ -271,8 +271,8 @@ SMPIT Nurul 'Ilmi Tenggarong
                               <div class="description ps-3 mb-5">
                                 <p class=""><strong>Juara 1 Lomba Menulis Cerpen</strong> <br> Provinsi Kaltim-Tara 2016</p>
                               </div>
-                            </div>
-                          </div> --}}
+                            </div> --}}
+                          </div>
                         </div>
                       </div>
 
@@ -441,13 +441,13 @@ SMPIT Nurul 'Ilmi Tenggarong
                             <p class="pe-5">Berikut adalah program unggulan SMPIT Nurul Ilmi Tenggarong.</p>
                           </div>
 
-                          {{-- <div class="col-lg-6 mt-lg-0 mt-2 ps-lg-0 ps-0">
+                          <div class="col-lg-6 mt-lg-0 mt-2 ps-lg-0 ps-0">
                             <div class="p-3 info-horizontal">
                               <div class="icon icon-shape  bg-gradient-info shadow-info text-center">
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="fw-bold">Kelas Tahfidz Al-Quran</p>
+                                <p class="fw-bold">Islamic Student Club</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -455,10 +455,10 @@ SMPIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="fw-bold">Muhadharah</p>
+                                <p class="fw-bold">Kelas Tahfiz</p>
                               </div>
                             </div>
-                            <div class="p-3 info-horizontal">
+                            {{-- <div class="p-3 info-horizontal">
                               <div class="icon icon-shape  bg-gradient-info shadow-info text-center">
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
@@ -505,8 +505,8 @@ SMPIT Nurul 'Ilmi Tenggarong
                               <div class="description ps-3 mb-5">
                                 <p class="fw-bold">Siswa Masuk Desa</p>
                               </div>
-                            </div>
-                          </div> --}}
+                            </div> --}}
+                          </div>
                         </div>
                       </div>
 
@@ -918,7 +918,9 @@ SMPIT Nurul 'Ilmi Tenggarong
           <h3 class="text-gradient text-danger mb-0">SMPIT Nurul 'Ilmi</h3>
           <h3>Tenggarong</h3>
           <p class="pe-md-5 mb-4">
-            SMPIT Nurul ‘Ilmi Tenggarong merupakan SD berkonsep Islam Terpadu pertama berdiri di Kalimantan. SMPIT Nurul ’Ilmi Tenggarong menyelenggarakan pendidikan sesuai dengan kurikulum nasional yang diperkaya dengan nilai-nilai Islam. Berkomitmen mengimplementasikan sistem pendidikan Islam secara terpadu untuk melahirkan generasi muslim terbaik menuju terwujudnya kejayaan Islam.
+            SMPIT Nurul Ilmi Tenggarong berdiri pada tanggal 13 Februari 2008 merupakan lembaga pendidikan dibawah naungan Jaringan Sekolah Islam Terpadu. Sekolah ini memiliki Visi “TERWUJUDNYA PRIBADI YANG SHALEH DAN SHALEHAH, BERINTELEKTUAL TINGGI SERTA PEDULI LINGKUNGAN” 
+
+            SMPIT Nurul Ilmi yang beralamat di Jalan Ahmad Dahlan RT 12 Kelurahan Baru Tenggarong saat ini memiliki 13 rombel dengan jumlah siswa sebanyak 397. SMPIT Nurul Ilmi memiliki dua program kelas, yaitu kelas Tahfiz dan Reguler. Kelas Tahfiz menitikberatkan pada capaian hafalan Quran peserta didik (minimal 3-15 juz) dan wajib tinggal di asrama. Kelas reguler tetap mengutamakan capaian hafalan Quran dengan target minimal 2-3 juz dan tidak wajib tinggal di asrama. Kedua program tersebut, tentu tetap menyeimbangkan pencapaian kurikulum akademik sesuai standar kurikulum Nasional dan Sekolah Islam Terpadu.
           </p>
         </div>
         <div class="col-md-5 col-12 my-auto">

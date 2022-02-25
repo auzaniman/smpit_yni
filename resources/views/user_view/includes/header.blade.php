@@ -6,7 +6,7 @@
         <div class="col-lg-7 text-center mx-auto">
           <h1 class="text-white pt-3 mt-n5">Selamat Datang</h1>
           <h3 class="text-white">Web Resmi SMPIT Nurul 'Ilmi Tenggarong</h3>
-          <p class="lead text-white mt-3">"Terwujudnya sekolah Islam Terpadu yang mencetak generasi unggul, bersih, sehat dan berkarakter berdasarkan IMTAQ dan IPTEK."</p>
+          <p class="lead text-white mt-3">"Terwujudnya Pribadi Yang Shaleh Dan Shalehah, Berintelektual Tinggi Serta Peduli Lingkungan."</p>
         </div>
       </div>
     </div>
